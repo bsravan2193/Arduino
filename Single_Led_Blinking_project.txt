@@ -1,4 +1,4 @@
-// connect the positive of led to arduino pin 5 and negative of led to GND pin of arduino
+//  connect the positive of led to arduino pin 5 and negative of led to GND pin of arduino
 void setup()
 {
   pinMode(5, OUTPUT);
